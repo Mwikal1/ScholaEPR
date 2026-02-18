@@ -1,7 +1,5 @@
 {
   "name": "ScholaERP - School Supply Distribution Intelligence",
   "description": "A high-performance ERP system for school supply distribution featuring batch-based inventory, smart invoicing with margin protection, financial ledgers, and AI-driven demand forecasting.",
-  "requestFramePermissions": [
-    "camera"
-  ]
+  "requestFramePermissions": []
 }
